@@ -1,0 +1,198 @@
+[
+  {
+    "title": "Hilton Budapest",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 8.5,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/e5/ee/a4/superior-luxury-room--v15259560.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Four Seasons Paris",
+    "localizedName": "Paris",
+    "locationV2": "Ile-de-France, France, Europe",
+    "rating": 9.2,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4c/29/80/bedroom.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Grand Hotel Rome",
+    "localizedName": "Rome",
+    "locationV2": "Lazio, Italy, Europe",
+    "rating": 8.9,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4c/29/7e/lobby.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Washington Plaza Hotel",
+    "localizedName": "Washington DC",
+    "locationV2": "District of Columbia, United States, North America",
+    "rating": 7.6,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/05/4c/29/83/bathroom.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Park City Resort",
+    "localizedName": "Park City",
+    "locationV2": "Wasatch Range, Utah, United States, North America",
+    "rating": 8.2,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/10/99/d0/swimming-pool.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "London Bridge Hotel",
+    "localizedName": "London",
+    "locationV2": "Kentucky, United States, North America",
+    "rating": 7.9,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/b3/96/b5/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Moscow Marriott Hotel",
+    "localizedName": "Moscow",
+    "locationV2": "Central Russia, Russia, Europe",
+    "rating": 8.6,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a6/fb/db/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Chicago Grand Plaza",
+    "localizedName": "Chicago",
+    "locationV2": "Illinois, United States, North America",
+    "rating": 7.3,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/a6/fb/93/the-lalit-mumbai.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Berlin City Hotel",
+    "localizedName": "Berlin",
+    "locationV2": "Germany, Europe",
+    "rating": 8.0,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/2c/95/84/hotel-beacon-t2.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Manila Bay Resort",
+    "localizedName": "Manila",
+    "locationV2": "Metro Manila, Luzon, Philippines, Asia",
+    "rating": 9.1,
+    "photo": "https://example.com/manila_bay_resort.jpg"
+  },
+  {
+    "title": "Hotel Atlantico Rio",
+    "localizedName": "Rio de Janeiro",
+    "locationV2": "Rio de Janeiro, Brazil, South America",
+    "rating": 8.8,
+    "photo": "https://example.com/hotel_atlantico_rio.jpg"
+  },
+  {
+    "title": "Munich Palace Hotel",
+    "localizedName": "Munich",
+    "locationV2": "Bavaria, Germany, Europe",
+    "rating": 9.4,
+    "photo": "https://example.com/munich_palace_hotel.jpg"
+  },
+  {
+    "title": "Amsterdam Canal View Hotel",
+    "localizedName": "Amsterdam",
+    "locationV2": "North Holland, Netherlands, Europe",
+    "rating": 8.9,
+    "photo": "https://example.com/amsterdam_canal_view_hotel.jpg"
+  },
+  {
+    "title": "Cape Town Beach Resort",
+    "localizedName": "Cape Town",
+    "locationV2": "Western Cape, South Africa, Africa",
+    "rating": 8.7,
+    "photo": "https://example.com/cape_town_beach_resort.jpg"
+  },
+  {
+    "title": "Hotel New York",
+    "localizedName": "New York",
+    "locationV2": "New York, United States, North America",
+    "rating": 9.1,
+    "photo": "https://example.com/hotel_new_york.jpg"
+  },
+  {
+    "title": "Bali Paradise Resort",
+    "localizedName": "Bali",
+    "locationV2": "Bali, Indonesia, Asia",
+    "rating": 9.3,
+    "photo": "https://example.com/bali_paradise_resort.jpg"
+  },
+  {
+    "title": "Hotel Atlantico Copacabana",
+    "localizedName": "Rio de Janeiro",
+    "locationV2": "Rio de Janeiro, Brazil, South America",
+    "rating": 8.8,
+    "photo": "https://example.com/hotel_atlantico_copacabana.jpg"
+  },
+  {
+    "title": "Munich Grand Hotel",
+    "localizedName": "Munich",
+    "locationV2": "Bavaria, Germany, Europe",
+    "rating": 9.4,
+    "photo": "https://example.com/munich_grand_hotel.jpg"
+  },
+  {
+    "title": "Amsterdam City Center Hotel",
+    "localizedName": "Amsterdam",
+    "locationV2": "North Holland, Netherlands, Europe",
+    "rating": 8.9,
+    "photo": "https://example.com/amsterdam_city_center_hotel.jpg"
+  },
+  {
+    "title": "Cape Town Oceanfront Resort",
+    "localizedName": "Cape Town",
+    "locationV2": "Western Cape, South Africa, Africa",
+    "rating": 8.7,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8f/ce/dc/the-lobby-lounge.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "New York Plaza Hotel",
+    "localizedName": "New York",
+    "locationV2": "New York, United States, North America",
+    "rating": 9.1,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/8f/ce/fb/the-lobby-lounge.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Bali Beachfront Resort",
+    "localizedName": "Bali",
+    "locationV2": "Bali, Indonesia, Asia",
+    "rating": 9.3,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/23/1b/88/vertical-garden-pool.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Hotel Gellért",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 8.5,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/02/23/1b/8a/exterior.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "InterContinental Budapest",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 9.2,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/d7/ab/ef/magnolia-fine-dining.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Hotel Parlament",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 8.7,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/d7/ab/e3/reception.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Corinthia Hotel Budapest",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 9.4,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d9/a3/3f/exterior.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "New York Palace Budapest",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 9.1,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/e3/90/28/crystal-lounge.jpg?w={width}&h={height}&s=1"
+  },
+  {
+    "title": "Aria Hotel Budapest",
+    "localizedName": "Budapest",
+    "locationV2": "Central Hungary, Hungary, Europe",
+    "rating": 9.3,
+    "photo": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/a0/a0/ed/hilton-mumbai-international.jpg?w={width}&h={height}&s=1"
+  }
+]
